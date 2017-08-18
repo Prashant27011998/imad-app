@@ -23,3 +23,12 @@ h4 {
     color:green;
     background-color:blue;
 }
+    .container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #00009e;
+    font-family: sans-serif;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
