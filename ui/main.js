@@ -3,11 +3,11 @@ var element = document.getElementById("main-text");
 element.innerHTML = "New Value";
 //move the image
 var img = document.getElementById("prashant");
-var marginLeft=0;
+var marginLeft = 0;
 function moveright()
 {
-    marginLeft= marginLeft + 5 ;
-image.style.marginLeft =marginLeft+ "px";
+    marginLeft = marginLeft + 1 ;
+image.style.marginLeft = marginLeft+ "px";
 }
 img.onclick = function(){
     
